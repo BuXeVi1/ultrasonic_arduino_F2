@@ -1,4 +1,4 @@
-//Arkkhanirut Pandej No.3 M.5/5
+//Arkkhanirut Pandej No3 M.5/5
 
 const int trigPin = 12;
 const int echoPin = 13;
